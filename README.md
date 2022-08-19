@@ -1,1 +1,0 @@
-# Image-segmentation-pipeline-heart
